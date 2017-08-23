@@ -292,8 +292,7 @@
       "metadata": {
         "name": "${DATABASE_SERVICE_NAME}",
         "annotations": {
-          "description": "Defines how to deploy the database",
-          "template.alpha.openshift.io/wait-for-ready": "true"
+          "description": "Defines how to deploy the database"
         }
       },
       "spec": {
